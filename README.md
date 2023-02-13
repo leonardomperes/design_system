@@ -17,7 +17,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br/>
 
 <p align="center">
-  <img alt="projeto Design System" src="./.github/previewDesignSystem.jpg" width="100%">
+  <img alt="projeto Design System" src="./.github/componentList.png" width="35%">
+
+  <img alt="projeto Design System" src="./.github/componentButton.png" width="100%">
+
+<img alt="projeto Design System" src="./.github/previewDesignSystem.jpg" width="100%">
 </p>
 <br/><br/>
 
@@ -30,16 +34,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - StoryBook
 <br/>
-<br/>
+
 ## 💻 Projeto
 
 Design System é a componentização agregando ao Storybook. Simplificando o uso do componente e estilo no qual o desenvolvedor queira utilizar.
 <br/>
-<br/>
 
 ## 😎 Aprendizado
-Primeiro contato com as tecnologias Storybook e Vite. Assimilação de como criar componente de algo: input, button etc através do TypeScript.
-
+Primeiro contato com as tecnologias Storybook, Vite e Tailwind. Assimilação de como criar componente: input, button, heading etc através do TypeScript. Entendimento melhor de design system e de como reutilzar códigos para criar novos componentes. 
 <br/>
 
 ## Licença
